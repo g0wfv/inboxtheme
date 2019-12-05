@@ -1,7 +1,8 @@
 /**
  * General hiding of elements
  **/
-._in .Wm, /* Message list count */
+/*._in .Wm, /* Message list count */
+._in .bsU, /* Message list count */
 ._in .aeN .z0 > .L3::before, /* Compose Icon */ 
 ._in .aeG, /* Footer stats */ 
 ._in .gb_Be img.gb_Wa, /* Gmail logo */
